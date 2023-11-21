@@ -6,5 +6,4 @@ Project Entities:
 - User
 - Questions
 - Answers
- -Decisions
- 
+- Decisions
